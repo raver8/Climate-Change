@@ -1,2 +1,2 @@
 # Climate-Change
-Python notebooks utilizing various linear regression models. 
+Python notebooks exported from Azure notebooks utilizing various linear regression models. 
